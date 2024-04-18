@@ -22,6 +22,7 @@
 
 #### Dot
 
+![vscode](./assets/dot/vscode.svg "VSCode")
 ![neovim](./assets/dot/neovim.svg "Neovim")
 ![debian](./assets/dot/debian.svg "Debian")
 ![oh-my-zsh](./assets/dot/ohmyzsh.svg "Oh My Zsh!")
