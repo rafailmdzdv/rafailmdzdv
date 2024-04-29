@@ -24,5 +24,6 @@
 
 ![neovim](./assets/dot/neovim.svg "Neovim")
 ![debian](./assets/dot/debian.svg "Debian")
+![arch](./assets/dot/arch.svg "Arch")
 ![oh-my-zsh](./assets/dot/ohmyzsh.svg "Oh My Zsh!")
 ![httpie-cli](./assets/dot/httpie.svg "HTTPie CLI")
