@@ -26,4 +26,5 @@
 ![debian](./assets/dot/debian.svg "Debian")
 ![arch](./assets/dot/arch.svg "Arch")
 ![oh-my-zsh](./assets/dot/ohmyzsh.svg "Oh My Zsh!")
+![tmux](./assets/dot/tmux.svg "Tmux")
 ![httpie-cli](./assets/dot/httpie.svg "HTTPie CLI")
